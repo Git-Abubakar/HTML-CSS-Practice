@@ -1,0 +1,51 @@
+ /* PCSS 5 */
+ * { margin: 0; padding: 0;} 
+
+ nav {padding: 5px;}
+
+nav a {
+    text-decoration: none;
+    margin-left: 150px;
+    padding: 5px;
+}
+
+header {
+    background-color: goldenrod;
+    height: 30px;
+}
+
+#second {
+    height: 50px;
+    width: 50px;
+    background-color: crimson;
+    border-radius: 50%; }
+    
+    .box {
+        
+        height: 100px;
+        width: 100px;
+        background-color: firebrick;
+        margin: 5px;
+        display: inline-block;
+        text-align: center;
+        
+    }
+      
+    #container {
+        
+        border: 3px solid;
+        margin: 5px;
+      }
+
+      #box4 {
+        position: fixed;
+        right: 10px;
+        top: 88px;
+      }
+     
+    footer { 
+        position: fixed;
+        bottom: 10px;
+        background-color: goldenrod;
+    }
+    
